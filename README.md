@@ -1,3 +1,6 @@
 # react-redux-realworld-io
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-redux-realworld-nkyqs9)
+- React 15
+- Redux
+- React Rputer
+- Realworld.io API
